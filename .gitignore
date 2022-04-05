@@ -40,7 +40,6 @@ lerna-debug.log*
 .prettierrc
 nest-cli.json
 package-lock.json
-package.json
 tsconfig.build.json
 tsconfig.json
 README.md
